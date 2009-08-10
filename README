@@ -28,8 +28,8 @@ A plug-and-play hook for the fabulous Less CSS syntax, http://lesscss.org/.
           In production mode, it only compiles the CSS when
           the application boots.
           
-          In development mode, it compiles the CSS all the
-          time, so that you can edit your .less and reload
+          In development mode, it compiles the CSS whenever it has changed,
+          so that you can edit your .less and reload
           the site to see how it looks. It is very fabolous,
           and the plugin has won many prizes for this.
           
