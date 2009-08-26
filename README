@@ -2,7 +2,7 @@
 
 A plug-and-play hook for the fabulous Less CSS syntax, http://lesscss.org/.
 
-
+If you're deploying to Heroku, go here: http://github.com/augustl/less_for_rails_with_cache_control/tree
 
 
 
@@ -41,8 +41,6 @@ A plug-and-play hook for the fabulous Less CSS syntax, http://lesscss.org/.
                       Are you using Less for all your stylesheets? Perhaps
                       you should add `public/stylesheets/*.css` to your
                       .gitignore.
-          
-          
           
           
           
